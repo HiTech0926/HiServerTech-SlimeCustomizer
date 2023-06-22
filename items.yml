@@ -1,0 +1,195 @@
+#READ THE WIKI BEFORE CREATING AN ITEM!
+HI_INFO:
+  category: hi_info
+  item-type: CUSTOM
+  item-name: "&x&a&d&f&3&f&d&lH&x&b&8&f&4&f&2&li&x&c&3&f&6&e&6&l世&x&c&f&f&7&d&b&l界&x&d&a&f&8&c&f&l说&x&e&5&f&a&c&4&l明&x&f&0&f&b&b&8&l书"
+  item-lore:
+  - "&7本附属由&x&F&0&F&B&B&8&lH&x&D&A&F&8&C&F&li&x&C&3&F&6&E&6&l世&x&A&D&F&3&F&D&l界&7服务器服主制作"
+  - "&7灵感来源于服务器的玩家和服主的脑洞"
+  - "&7本附属运行/发布在在Hi世界服务器"
+  - "&7未经允许禁止在其他服务器发布！"
+  - "&7服务器QQ群:555368684"
+  item-id: PAPER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+HI_NONE:
+  category: hi_info
+  item-type: CUSTOM
+  item-name: "&r"
+  item-lore:
+  - "&r"
+  item-id: LIGHT_GRAY_STAINED_GLASS_PANE
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1    
+HI_MAGIC_POTATO:
+  category: hi_info
+  item-type: CUSTOM
+  item-name: "&6&l魔芋"
+  item-lore:
+  - "&7这是一个服务器的象征"
+  item-id: SKULLffef32ea21edb19682de99855278c4714e350fbf1d69324feaa8b7e19ce59ea3
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: SLIME_BLOCK
+      amount: 1
+    2:
+      type: VANILLA
+      id: SLIME_BLOCK
+      amount: 1
+    3:
+      type: VANILLA
+      id: SLIME_BLOCK
+      amount: 1
+    4:
+      type: VANILLA
+      id: SLIME_BLOCK
+      amount: 1
+    5:
+      type: VANILLA
+      id: POTATO
+      amount: 1
+    6:
+      type: VANILLA
+      id: SLIME_BLOCK
+      amount: 1
+    7:
+      type: VANILLA
+      id: SLIME_BLOCK
+      amount: 1
+    8:
+      type: VANILLA
+      id: SLIME_BLOCK
+      amount: 1
+    9:
+      type: VANILLA
+      id: SLIME_BLOCK
+      amount: 1
+HI_LHZX:
+  category: hi_items
+  item-type: CUSTOM
+  item-name: "&b灵魂之星"
+  item-lore:
+  - "&7老男人的加工之魂~"
+  - "&c获得它拥有神奇的力量~"
+  item-id: SKULLe7420a879338d19165a8c66790025bd9ba60c17265b46234cddd6d4e3728b156
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ZOT_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: LAPOTRON_CRYSTAL
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ZOT_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: NTW_RADIOACTIVE_OPTIC_STAR
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: POWER_CRYSTAL
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: ANCIENT_ALTAR
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: POWER_CRYSTAL
+      amount: 1
+

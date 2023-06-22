@@ -1,0 +1,19 @@
+hi_main:
+  category-name: '&x&F&0&F&B&B&8&lH&x&D&A&F&8&C&F&li&x&C&3&F&6&E&6&l世&x&A&D&F&3&F&D&l界'
+  category-item: SKULLbfd704cfaab49746c1d2127c701e13b461a4344a7c8f88ca0ea33a40ff4a9ef4
+  type: nested
+hi_info:
+  type: sub
+  category-name: "&x&F&0&F&B&B&8&lH&x&D&A&F&8&C&F&li&x&C&3&F&6&E&6&l世&x&A&D&F&3&F&D&l界 —— &x&F&0&F&B&B&8&l必&x&D&A&F&8&C&F&l读&x&C&3&F&6&E&6&l信&x&A&D&F&3&F&D&l息"
+  category-item: SKULL2454aa7783eadfa49e56e731c53f3ea861419dbdbda32066700a4aac9cc9aad7
+  parent: hi_main
+hi_machines:
+  type: sub
+  category-name: "&x&F&0&F&B&B&8&lH&x&D&A&F&8&C&F&li&x&C&3&F&6&E&6&l世&x&A&D&F&3&F&D&l界 —— &x&F&0&F&B&B&8&l机&x&A&D&F&3&F&D&l器"
+  category-item: SKULL4a6938f70e49f5a2ff59e5bdfbbe4236902bd91c3f5baca0101801f2e4a98560
+  parent: hi_main
+hi_items:
+  type: sub
+  category-name: "&x&F&0&F&B&B&8&lH&x&D&A&F&8&C&F&li&x&C&3&F&6&E&6&l世&x&A&D&F&3&F&D&l界 —— &x&F&0&F&B&B&8&l物&x&A&D&F&3&F&D&l品"
+  category-item: PAPER
+  parent: hi_main

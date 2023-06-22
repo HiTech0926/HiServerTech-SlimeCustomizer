@@ -1,0 +1,458 @@
+HI_YITIJI_YOU:
+  category: hi_machines
+  machine-name: '&e&l铀一体机'
+  machine-lore:
+  - '&7放入筛矿，自动加工成铀'
+  block-type: SKULL6c9823d6bc53df39c8d62cf874ce9864f0275dddf55afc8ef3d12b7cad265fdd
+  progress-bar-item: IRON_PICKAXE
+  stats:
+    energy-consumption: 200
+    energy-buffer: 400
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: REDSTONE_ALLOY
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: REDSTONE_ALLOY
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: BIG_CAPACITOR
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: BIG_CAPACITOR
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: REDSTONE_ALLOY
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: REDSTONE_ALLOY
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 6
+      input:
+        '1':
+          type: SLIMEFUN
+          id: SIFTED_ORE
+          amount: 36
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: URANIUM
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+HI_YITIJI_GONGYE:
+  category: hi_machines
+  machine-name: '&e&l工业一体机'
+  machine-lore:
+  - '&7简化繁琐的工业流程'
+  block-type: SKULL6c9823d6bc53df39c8d62cf874ce9864f0275dddf55afc8ef3d12b7cad265fdd
+  progress-bar-item: IRON_PICKAXE
+  stats:
+    energy-consumption: 1250
+    energy-buffer: 4000
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: MULTI_FUNCTIONAL_ELECTRIC_STORAGE_UNIT
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ADVANCED_ALLOY
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: MULTI_FUNCTIONAL_ELECTRIC_STORAGE_UNIT
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: MULTI_FUNCTIONAL_STORAGE_UNIT
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: HI_LHZX
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: MULTI_FUNCTIONAL_STORAGE_UNIT
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: ANCIENT_ITEM
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: FUHEBAN
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: ANCIENT_ITEM
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 6
+      input:
+        '1':
+          type: SLIMEFUN
+          id: REFINED_IRON
+          amount: 8
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: MACHINE_BLOCK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 6
+      input:
+        '1':
+          type: SLIMEFUN
+          id: BRONZE_INGOT
+          amount: 6
+        '2':
+          type: SLIMEFUN
+          id: REFINED_IRON
+          amount: 3
+      output:
+        '1':
+          type: SLIMEFUN
+          id: MIXED_METAL_INGOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '3':
+      speed-in-seconds: 6
+      input:
+        '1':
+          type: SLIMEFUN
+          id: ADVANCED_ALLOY
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: MACHINE_BLOCK
+          amount: 2
+      output:
+        '1':
+          type: SLIMEFUN
+          id: ADVANCED_MACHINE_BLOCK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 6
+      input:
+        '1':
+          type: SLIMEFUN
+          id: IRIDIUM
+          amount: 5
+        '2':
+          type: SLIMEFUN
+          id: ADVANCED_ALLOY
+          amount: 4
+      output:
+        '1':
+          type: SLIMEFUN
+          id: IRIDIUM_PLATE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '5':
+      speed-in-seconds: 6
+      input:
+        '1':
+          type: SLIMEFUN
+          id: THORIUM
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: THORIUM_PLATE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '6':
+      speed-in-seconds: 6
+      input:
+        '1':
+          type: VANILLA
+          id: DIAMOND
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: DIAMOND_PLATE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '7':
+      speed-in-seconds: 6
+      input:
+        '1':
+          type: VANILLA
+          id: IRON_INGOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: IRON_PLATE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '8':
+      speed-in-seconds: 6
+      input:
+        '1':
+          type: VANILLA
+          id: GOLD_INGOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: GOLD_PLATE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '9':
+      speed-in-seconds: 6
+      input:
+        '1':
+          type: SLIMEFUN
+          id: COPPER_INGOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: COPPER_PLATE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '10':
+      speed-in-seconds: 6
+      input:
+        '1':
+          type: SLIMEFUN
+          id: IRON_PLATE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: IRON_ITEM_CASING
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '11':
+      speed-in-seconds: 6
+      input:
+        '1':
+          type: SLIMEFUN
+          id: TIN_INGOT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: TIN_PLATE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '12':
+      speed-in-seconds: 6
+      input:
+        '1':
+          type: SLIMEFUN
+          id: TIN_PLATE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: TIN_ITEM_CASING
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '13':
+      speed-in-seconds: 6
+      input:
+        '1':
+          type: SLIMEFUN
+          id: TIN_ITEM_CASING
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: UNINSULATED_TIN_CABLE
+          amount: 3
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '14':
+      speed-in-seconds: 6
+      input:
+        '1':
+          type: SLIMEFUN
+          id: COPPER_PLATE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: COPPER_ITEM_CASING
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '15':
+      speed-in-seconds: 6
+      input:
+        '1':
+          type: SLIMEFUN
+          id: COPPER_ITEM_CASING
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: UNINSULATED_COPPER_CABLE
+          amount: 3
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '16':
+      speed-in-seconds: 6
+      input:
+        '1':
+          type: SLIMEFUN
+          id: GOLD_PLATE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: GOLD_ITEM_CASING
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '17':
+      speed-in-seconds: 6
+      input:
+        '1':
+          type: SLIMEFUN
+          id: GOLD_ITEM_CASING
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: UNINSULATED_GOLD_CABLE
+          amount: 3
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
